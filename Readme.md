@@ -35,7 +35,7 @@ Ready to embark on your computer science journey? Follow these simple steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/ossu/computer-science.git
+   git clone https://github.com/Ruhdee/Ruhaan-s-repo.git
    ```
 
 2. **Explore Course Materials**
