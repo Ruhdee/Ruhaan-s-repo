@@ -40,10 +40,7 @@ Ready to embark on your computer science journey? Follow these simple steps:
 
 2. **Explore Course Materials**
    Each section is packed with links to courses, textbooks, and supplementary resources tailored for your learning.
-
-3. **Join Our Community**
-   Connect with fellow learners on our [Discord server](https://discord.gg/ossu) or contribute via GitHub issues for questions or suggestions.
-
+   
 ## 🎓 Course Highlights
 
 - **Introduction to Programming**: Start coding with Python and grasp the basics of programming.
